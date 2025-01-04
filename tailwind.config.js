@@ -14,6 +14,11 @@ export default {
           mid: '#2E2E4E',
           end: '#6A5FA8',
         },
+        chatterl:{
+          start:"#e0f7fa",
+          mid:"#bbdefb",
+          end:"#90caf9"
+        }
       },
     },
   },
